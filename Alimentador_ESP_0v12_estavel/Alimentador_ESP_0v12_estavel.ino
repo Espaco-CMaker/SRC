@@ -3,7 +3,7 @@
 // Chip: ESP8266EX
 // Data: 11/2019
 // Autor: Bettio
-// Informações:
+// Informações: On GitHub
 // Fontes
 // Servo: http://blog.baudaeletronica.com.br/nodemcu-esp8266-com-micro-servo-9g/
 // Graficos: https://www.w3schools.com/graphics/svg_circle.asp
