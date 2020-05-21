@@ -178,6 +178,6 @@ void loop() {
     //ticker.attach(dado.intervalos*3600, dispara);
   }
   //testeServo();
-  //MDNS.update(); //??? NÃO SEI O QUE É
+  //MDNS.update(); 
   //delay(10000);
 }
