@@ -1,5 +1,6 @@
 # cmaker
 http://www.cmaker.com.br
+
 Espaço CMaker é um espaço para compartilhar informações, eventos, cursos, infraestrutura, maquinários, etc. O espaço funciona como uma associação onde os membros podem usar os equipamentos e o espaço para o desenvolvimento de projetos ou atividades de lazer. Para ingressar é necessário se filiar ao espaço como associado.
 
 O espaço conta com impressora 3D, plotter de recorte, impressora laser, estação de solda, osciloscópio digital, acesso a internet, cozinha, banheiro, espaço para projetos, reuniões, Frag Night/Lan Party (espaço para jogos digitais e analógicos como jogos de tabuleiro, RPG), entre outros atrativos.
