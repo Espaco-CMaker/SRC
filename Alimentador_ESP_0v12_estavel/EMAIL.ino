@@ -22,7 +22,7 @@ char smtp_server[] = "smtp.gmail.com";
 //esta tem que ser a porta do seu provedor que aceita conexões sem criptografia
 const int smtp_port = 587; //pode ser 25, 2525 587, 465, etc. Veja com seu provedor de email.
 const String mail_username="fgbettio@gmail.com";
-const String mail_password="fgb1578#";
+const String mail_password="****";
 const String mail_from="<fgbettio@gmail.com>";
 const String mail_to="<fgbettio@yahoo.com.br>";
 String mail_subject="Alimentador Ativo"; //Preencha em AlarmeON() e AlarmeOFF()
